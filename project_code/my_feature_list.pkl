@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'sum_prop_correspondences_with_poi'
+p2
+aS'bonus_salary_ratio'
+p3
+a.
