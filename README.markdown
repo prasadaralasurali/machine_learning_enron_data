@@ -8,4 +8,3 @@ Project Report.pdf: Contains the details of the project including code details
 
 project_code/poi_id: The main file containing the code for traiing and testing the model
 
-Note: This project is a part of the Udacity’s Data Analyst Nanodegree program.
