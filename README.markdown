@@ -4,7 +4,7 @@ This project aims to build a model to predict whether a person related to Enron 
 
 ****Files:****
 
-Project Report.pdf: Contains the details of the project including code details
+Project Report.pdf: Contains the details of the project
 
 project_code/poi_id: The main file containing the code for traiing and testing the model
 
