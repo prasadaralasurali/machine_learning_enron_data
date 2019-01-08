@@ -8,3 +8,5 @@ Project Report.pdf: Contains the details of the project including code details
 
 project_code/poi_id: The main file containing the code for traiing and testing the model
 
+This project requires **Python 2.7**
+
