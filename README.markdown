@@ -10,3 +10,6 @@ project_code/poi_id: The main file containing the code for traiing and testing t
 
 This project requires **Python 2.7**
 
+**Note: this proejct is a part of Data Analyst Nanodegree from Udacity**
+
+
